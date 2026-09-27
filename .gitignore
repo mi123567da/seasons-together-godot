@@ -1,0 +1,15 @@
+# Godot rebuilds this cache on import.
+.godot/
+
+# Local debug/release outputs and diagnostic staging are not source assets.
+build/
+*.exe
+*.pck
+*.zip
+*.partial
+*.log
+
+# Do not publish local saves or editor scratch files.
+data/
+*.tmp
+*.bak

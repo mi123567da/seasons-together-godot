@@ -1,0 +1,12 @@
+{
+  "currency_id": "hub_marks",
+  "starting_marks": 60,
+  "unlock_cost_overrides": {
+    "bow": 0,
+    "sword": 25,
+    "staff": 40,
+    "spirit_focus": 55
+  },
+  "upgrade_costs": [20, 35, 55],
+  "max_weapon_level": 4
+}
